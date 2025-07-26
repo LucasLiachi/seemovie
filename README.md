@@ -1,5 +1,7 @@
 # Aplicativo de busca de filmes
 
+
+
 Este é um aplicativo Python que permite aos usuários pesquisar por filmes usando a API do IMDB. Com ele, os usuários poderão buscar filmes por título, ator ou diretor e obter informações detalhadas sobre o filme, como sinopse, elenco e avaliação do usuário.
 
 ## Como utilizar
